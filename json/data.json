@@ -1,0 +1,28 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "Zapatillas Adidas",
+        "precio": 10000,
+        "imagen": "./fotos/CARROUSEL1.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Zapatillas Nike",
+        "precio": 12000,
+        "imagen": "./fotos/CARROUSEL2.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Zapatillas Rebook",
+        "precio": 8000,
+        "imagen": "./fotos/CARROUSEL3.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Zapatillas Fila",
+        "precio": 11000,
+        "imagen": "./fotos/CARROUSEL1.jpg"
+    }
+
+]
